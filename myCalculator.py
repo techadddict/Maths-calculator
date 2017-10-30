@@ -1,3 +1,4 @@
+## need to clear entrybox before another calculation is carried out!!!!!!!
 from tkinter import *
 
 class Calculator(Frame):
